@@ -20,7 +20,7 @@ Tech Stack;
 
 GDevelop 5
 JavaScript (API integration)
-TxLINE Sports Orace API
+TxLINE Sports Oracle API
 
 TxLINE Endpoints Used;
 
