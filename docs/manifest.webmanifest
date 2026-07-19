@@ -1,0 +1,84 @@
+{
+  "name": "QuickPicks",
+  "short_name": "QuickPicks",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "gameicon.png",
+        "sizes": "20x20"
+      },{
+        "src": "gameicon.png",
+        "sizes": "29x29"
+      },{
+        "src": "gameicon.png",
+        "sizes": "36x36"
+      },{
+        "src": "gameicon.png",
+        "sizes": "40x40"
+      },{
+        "src": "gameicon.png",
+        "sizes": "48x48"
+      },{
+        "src": "gameicon.png",
+        "sizes": "50x50"
+      },{
+        "src": "gameicon.png",
+        "sizes": "57x57"
+      },{
+        "src": "gameicon.png",
+        "sizes": "58x58"
+      },{
+        "src": "gameicon.png",
+        "sizes": "60x60"
+      },{
+        "src": "gameicon.png",
+        "sizes": "72x72"
+      },{
+        "src": "gameicon.png",
+        "sizes": "76x76"
+      },{
+        "src": "gameicon.png",
+        "sizes": "80x80"
+      },{
+        "src": "gameicon.png",
+        "sizes": "87x87"
+      },{
+        "src": "gameicon.png",
+        "sizes": "96x96"
+      },{
+        "src": "gameicon.png",
+        "sizes": "100x100"
+      },{
+        "src": "gameicon.png",
+        "sizes": "114x114"
+      },{
+        "src": "gameicon.png",
+        "sizes": "120x120"
+      },{
+        "src": "gameicon.png",
+        "sizes": "144x144"
+      },{
+        "src": "gameicon.png",
+        "sizes": "152x152"
+      },{
+        "src": "gameicon.png",
+        "sizes": "167x167"
+      },{
+        "src": "gameicon.png",
+        "sizes": "180x180"
+      },{
+        "src": "gameicon.png",
+        "sizes": "192x192"
+      },{
+        "src": "gameicon.png",
+        "sizes": "512x512"
+      },{
+        "src": "gameicon.png",
+        "sizes": "1024x1024"
+      }]
+}
